@@ -13,15 +13,15 @@ Hier komt uitleg van het project en het idee er achter
 
 ### Onderzoek Kunstenaar
 
-![alt text](img/onderzoek-kunstenaar.png)
+![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1052161700859760651/onderzoek-kunstenaar.png)
 
 ### Moodboard
 
-![alt text](img/Moodboard.png)
+![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1052161701547606107/moodboard.png)
 
-### StyleBoard
+### Styletile
 
-![alt text](img/Styleboard.png)
+![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1052161701216268328/styleboard.png)
 
 ### Woordweb
 
