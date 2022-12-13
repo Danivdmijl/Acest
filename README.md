@@ -36,6 +36,6 @@ Hier komt het woordweb
 
 ## Links
 
-[a relative link](Projectplan-Acest.pdf)
+[Project Plan Acest](Projectplan-Acest.pdf)
 
 Hier komen links zoals trello etc ( Deze pas toevoegen aan het eind van project !)
