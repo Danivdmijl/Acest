@@ -13,15 +13,15 @@ Hier komt uitleg van het project en het idee er achter
 
 ### Onderzoek Kunstenaar
 
-![alt text](img/Daan%20Roosegaarde-onderzoek.pdf)
+![alt text](img/onderzoek-kunstenaar.png)
 
 ### Moodboard
 
-![alt text](img/Moodboard.pdf)
+![alt text](img/Moodboard.png)
 
 ### StyleBoard
 
-![alt text](img/Styleboard.pdf)
+![alt text](img/Styleboard.png)
 
 ### Woordweb
 
