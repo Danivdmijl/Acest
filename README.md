@@ -23,10 +23,13 @@ Hier komt uitleg van het project en het idee er achter
 
 ![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1052161701216268328/styleboard.png)
 
-### Woordweb
+### User Journey
 
 ![alt text](https://media.discordapp.net/attachments/893465488888311863/1052163640641454141/image.png?width=1440&height=535)
 
+### Woordweb
+
+Hier komt het woordweb
 
 
 
