@@ -25,6 +25,8 @@ Hier komt uitleg van het project en het idee er achter
 
 ### Woordweb
 
+![alt text](https://media.discordapp.net/attachments/893465488888311863/1052163640641454141/image.png?width=1440&height=535)
+
 
 
 
