@@ -31,8 +31,11 @@ Hier komt uitleg van het project en het idee er achter
 
 Hier komt het woordweb
 
+### Tussetijdse showcases
 
 
 ## Links
+
+[a relative link](Projectplan-Acest.pdf)
 
 Hier komen links zoals trello etc ( Deze pas toevoegen aan het eind van project !)
