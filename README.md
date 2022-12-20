@@ -29,7 +29,12 @@ Hier komt uitleg van het project en het idee er achter
 
 ### Woordweb
 
-Hier komt het woordweb
+![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1054675041058566144/image.png)
+
+### Persona
+
+![alt text](https://cdn.discordapp.com/attachments/893465488888311863/1054675479937957928/image.png)
+
 
 ### Tussetijdse showcases
 
