@@ -45,4 +45,8 @@ Hier komt uitleg van het project en het idee er achter
  
 [Functioneel Ontwerp Acest](Functioneel-Ontwerp-Acest.pdf)
 
+[Technisch Ontwerp Acest](Technisch_Ontwerp.pdf)
+
+[Tussen tijdse video Acest](tussenvideo.MOV)
+
 Hier komen links zoals trello etc ( Deze pas toevoegen aan het eind van project !)
