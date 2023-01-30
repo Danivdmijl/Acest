@@ -48,7 +48,7 @@ Voor het project Radicale Kunstspeeltuin van het MediaCollege moesten we samenwe
 
 [Retrospective](retrospective.pdf)
 
-[Onderzoek Verslag](onderzoekverslag.pdf)
+[Onderzoek Verslag](onderzoek verslag.pdf)
 
 [usertest - video](usertestvideo.txt)
 
