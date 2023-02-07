@@ -52,4 +52,6 @@ Voor het project Radicale Kunstspeeltuin van het MediaCollege moesten we samenwe
 
 [usertest - video](usertestvideo.txt)
 
+[Testrapport](Testrapport.pdf)
+
 [Trello/Logboek](https://trello.com/invite/b/eKZnuofW/ATTI6602ad598c64612249857fa0c8a63e6d65CECA05/acest)
