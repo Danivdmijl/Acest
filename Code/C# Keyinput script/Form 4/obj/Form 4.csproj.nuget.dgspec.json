@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniv\\Desktop\\Form 4\\Form 4\\Form 4.csproj": {}
+    "C:\\Users\\daniv\\Documents\\MA\\Bewijzenmap jaar 2\\Acest\\Code\\C# Keyinput script\\Form 4\\Form 4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniv\\Desktop\\Form 4\\Form 4\\Form 4.csproj": {
+    "C:\\Users\\daniv\\Documents\\MA\\Bewijzenmap jaar 2\\Acest\\Code\\C# Keyinput script\\Form 4\\Form 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniv\\Desktop\\Form 4\\Form 4\\Form 4.csproj",
+        "projectUniqueName": "C:\\Users\\daniv\\Documents\\MA\\Bewijzenmap jaar 2\\Acest\\Code\\C# Keyinput script\\Form 4\\Form 4.csproj",
         "projectName": "Form 4",
-        "projectPath": "C:\\Users\\daniv\\Desktop\\Form 4\\Form 4\\Form 4.csproj",
+        "projectPath": "C:\\Users\\daniv\\Documents\\MA\\Bewijzenmap jaar 2\\Acest\\Code\\C# Keyinput script\\Form 4\\Form 4.csproj",
         "packagesPath": "C:\\Users\\daniv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniv\\Desktop\\Form 4\\Form 4\\obj\\",
+        "outputPath": "C:\\Users\\daniv\\Documents\\MA\\Bewijzenmap jaar 2\\Acest\\Code\\C# Keyinput script\\Form 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniv\\AppData\\Roaming\\NuGet\\NuGet.Config",

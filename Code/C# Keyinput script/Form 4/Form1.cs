@@ -16,7 +16,7 @@ namespace Form_4
         {
 
             _serialPort = new SerialPort();
-            _serialPort.PortName = "COM6";
+            _serialPort.PortName = "COM8";
             _serialPort.BaudRate = 115200;
             _serialPort.DataBits = 8;
             _serialPort.StopBits = StopBits.One;
